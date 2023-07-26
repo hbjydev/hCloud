@@ -1,0 +1,4 @@
+---
+packages:
+  - apps/*  # all apps in top level
+  - libs/** # all libs & subdir libs
