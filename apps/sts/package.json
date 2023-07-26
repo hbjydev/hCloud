@@ -8,6 +8,7 @@
         "lint:fix": "eslint . --fix"
     },
     "dependencies": {
+        "@hCloud/nest-logfmt": "workspace:^",
         "@hCloud/tsconfig": "workspace:^",
         "@nestjs/common": "^10.1.2",
         "@nestjs/config": "^3.0.0",
