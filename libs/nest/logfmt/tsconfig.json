@@ -1,0 +1,9 @@
+{
+    "extends": "@hCloud/tsconfig/node20.json",
+    "compilerOptions": {
+        "outDir": "build",
+        "declaration": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "build"]
+}
