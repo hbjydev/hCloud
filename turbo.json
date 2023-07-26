@@ -5,14 +5,11 @@
     "build": {
       "dependsOn": ["^build"]
     },
-    "build:dev": {
-      "dependsOn": ["^build:dev"]
-    },
     "lint": {},
     "dev": {
       "cache": false,
       "persistent": true,
-      "dependsOn": ["build:dev"]
+      "dependsOn": ["build"]
     }
   }
 }
