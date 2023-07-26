@@ -4,7 +4,7 @@
     "scripts": {
         "build": "turbo run build",
         "dev": "turbo run dev",
-        "build:watch": "turbo run build:watch",
+        "build:watch": "turbo run build:watch"
     },
     "devDependencies": {
         "turbo": "^1.10.12"
