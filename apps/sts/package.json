@@ -5,7 +5,7 @@
     "scripts": {
         "dev": "nodemon -w src -x node -r @swc-node/register src/main.ts",
         "lint": "eslint .",
-        "lint:fix": "eslint . --fix",
+        "lint:fix": "eslint . --fix"
     },
     "dependencies": {
         "@hCloud/tsconfig": "workspace:^",
