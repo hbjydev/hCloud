@@ -1,4 +1,7 @@
 {
     "name": "@hcloud/root",
-    "private": true
+    "private": true,
+    "devDependencies": {
+        "turbo": "^1.10.12"
+    }
 }
