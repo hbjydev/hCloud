@@ -2,6 +2,7 @@
     "name": "@hcloud/root",
     "private": true,
     "scripts": {
+        "lint": "turbo run lint",
         "build": "turbo run build",
         "dev": "turbo run dev",
         "build:watch": "turbo run build:watch"
