@@ -1,0 +1,3 @@
+{
+    "extends": "@hCloud/tsconfig/node20.json"
+}
